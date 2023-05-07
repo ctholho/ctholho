@@ -2,7 +2,7 @@
 
 I'm Valentin, sort of full stack, DevOps-y kinda guy.
 
-I work @ [akronym.io](https://akronym.io)
+I work @ [akronym.io](https://akronym.io) | mastodon @ctholho@mastodon.social [via elk](https://elk.zone/mastodon.social/@ctholho)
 
 * 🔨 TypeScript
 * 🐍 Python
