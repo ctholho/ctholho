@@ -7,5 +7,5 @@ I work @ [akronym.io](https://akronym.io)
 * 🔨 TypeScript
 * 🐍 Python
 * 🐘 Postgres
-* 🦀 Rust
+* 🦀 Rust (beginner)
 * ☸️ Kubernetes
